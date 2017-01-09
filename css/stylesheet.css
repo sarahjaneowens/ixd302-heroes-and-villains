@@ -173,7 +173,8 @@ cite {
     font-family:'Rokkitt', serif;
     color:#EFC08E;}
 
-a {color: navajowhite;}
+a {color: #EFC08E;
+    text-decoration: none;}
 
 
 .one p {color:#EFC08E;}
