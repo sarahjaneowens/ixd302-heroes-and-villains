@@ -74,14 +74,17 @@ main{
 /* --------------- nav ---------------- */
 
 
-nav {background:#EFC08E;} 
+nav {background:#DDA97A;
+padding: 2em;} 
 
 nav ul li {
     display: inline;
-    padding:20px;}
+    margin-right: -25px;
+    padding:30px;}
 
 nav ul {
-    position: fixed;}
+    float: right;
+   }
 
 nav li a {
     text-decoration: none;
